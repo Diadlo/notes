@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Pragmatic Programmer
 
-You can use the [editor on GitHub](https://github.com/Diadlo/notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here are few obvious tips from the book:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Goals
 
-### Markdown
+#### Learn at least one new language every year
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+| Year | Lang | TODO                |
+|------|------|---------------------|
+| 2020 | C    | Read spec           |
+| 2021 | Rust | Write something (?) |
 
-# Header 1
-## Header 2
-### Header 3
+#### Read a technical book each quarter (or even month)
 
-- Bulleted
-- List
+| Year       | Book                 | Done |
+|------------|----------------------|------|
+| 2020 (3/4) | Pragmatic Programmer | WIP  |
+| 2020 (3/4) | Refactoring          |      |
 
-1. Numbered
-2. List
+#### Read nontechnical books
 
-**Bold** and _Italic_ and `Code` text
+| Year    | Book |
+|---------|------|
+|         |      |
 
-[Link](url) and ![Image](src)
-```
+#### Take classes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+???
 
-### Jekyll Themes
+#### Participate in local user groups
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Diadlo/notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+???
 
-### Support or Contact
+#### Experiment with different environments
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+???
+
+### Find usefull blog/magazine/journal
+
+???
