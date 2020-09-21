@@ -14,16 +14,23 @@ Here are few obvious tips from the book:
 
 #### Read a technical book each quarter (or even month)
 
-| Year       | Book                 | Done |
-|------------|----------------------|------|
-| 2020 (3/4) | Pragmatic Programmer | WIP  |
-| 2020 (3/4) | Refactoring          |      |
+| Year       | Book                                  | Done |
+|------------|---------------------------------------|------|
+| 2020 (3/4) | Pragmatic Programmer                  | WIP  |
+| 2020 (4/4) | Refactoring                           |      |
+| 2021 (1/4) | Peopleware                            |      |
+| 2021 (2/4) | Pearls of Functional Algorithm Design |      |
+| 2021 (3/4) | The mythical Man-Month                |      |
 
 #### Read nontechnical books
 
-| Year    | Book |
-|---------|------|
-|         |      |
+| Year    | Book                       |
+|---------|----------------------------|
+| 2020    | Введение в науку философии |
+
+### Find usefull blog/magazine/journal
+
+???
 
 #### Take classes
 
@@ -34,9 +41,5 @@ Here are few obvious tips from the book:
 ???
 
 #### Experiment with different environments
-
-???
-
-### Find usefull blog/magazine/journal
 
 ???
