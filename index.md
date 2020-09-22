@@ -15,9 +15,14 @@
 |------------|---------------------------------------|------|
 | 2020 (3/4) | Pragmatic Programmer                  | WIP  |
 | 2020 (4/4) | Refactoring                           |      |
-| 2021 (1/4) | Peopleware                            |      |
-| 2021 (2/4) | Pearls of Functional Algorithm Design |      |
-| 2021 (3/4) | The mythical Man-Month                |      |
+
+Pool:
+
+* Clean architecture (R. Martin)
+* Clean clode (R. Martin)
+* Peopleware
+* Pearls of Functional Algorithm Design
+* The mythical Man-Month
 
 ### Read nontechnical books
 
