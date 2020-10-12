@@ -6,8 +6,10 @@
 | Year | Lang      | TODO                |
 |------|-----------|---------------------|
 | 2020 | C         | Read spec           |
-| 2021 | SmallTalk |                     |
-| 2022 | Rust      |                     |
+|      | SmallTalk |                     |
+|      | Eiffel    |                     |
+|      | Perl      |                     |
+|      | Rust      |                     |
 
 ### Read a technical book each quarter (or even month)
 
