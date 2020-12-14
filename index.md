@@ -15,13 +15,13 @@
 
 | Year       | Book                                  | Done |
 |------------|---------------------------------------|------|
-| 2020 (3/4) | Pragmatic Programmer                  | WIP  |
-| 2020 (4/4) | Refactoring                           |      |
+| 2020 (3/4) | Pragmatic Programmer                  | Done |
+| 2020 (4/4) | Refactoring                           | WIP  |
+| 2021 (1/4) | Clean code                            |      |
 
 Pool:
 
 * Clean architecture (R. Martin)
-* Clean clode (R. Martin)
 * Peopleware
 * Pearls of Functional Algorithm Design
 * The mythical Man-Month
@@ -32,18 +32,10 @@ Pool:
 |---------|----------------------------|
 | 2020    | Введение в науку философии |
 
-### Find usefull blog/magazine/journal
+### Pragmatic Programmer Review
 
-???
+It's a very good book. Sometimes it contains well-known thoughts. At least some
+of them were known implicitly by me. But it does the structure and declares
+explicitly all of them.
 
-### Take classes
-
-???
-
-### Participate in local user groups
-
-???
-
-### Experiment with different environments
-
-???
+Must read book. I have read the 2000 edition.
